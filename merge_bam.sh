@@ -1,6 +1,6 @@
 #! /bin/bash
-#$ -e /Takara_bio/out/
-#$ -o /Takara_bio/out/
+#$ -e /err/
+#$ -o /out/
 #$ -pe smp 1 -R y -binding linear:1
 #$ -l h_vmem=40G
 #$ -l h_rt=72:00:00
