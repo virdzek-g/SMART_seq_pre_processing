@@ -3,4 +3,7 @@
 Sequencer output converted to raw FASTQ files using bcl2fastq.
 
 Takara bio CogentAP v3.2 
-demux - estimates the number of reads for each barcode present from the well list andoutputs an estimated read counts file
+
+demux - demultiplex barcoded reads from sequence data stored in FASTQ files
+
+analyze - perform counting analysis for exons and genes by FASTQ input data
