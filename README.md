@@ -4,11 +4,11 @@ Sequencer output converted to raw FASTQ files using bcl2fastq.
 
 Takara bio CogentAP v3.2 
 
-##demux
+## demux
 
 demultiplex barcoded reads from sequence data stored in FASTQ files
 
-##analyze
+## analyze
 
 perform counting analysis for exons and genes by FASTQ input data
 
